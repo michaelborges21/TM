@@ -546,6 +546,10 @@ TM/
 ## License and credits
 
 The academic work is by **Michael Dionísio Borges** (Universidade Autónoma de Lisboa, 2020).
+The code in this repository is released under the **MIT License** — see [LICENSE](LICENSE).
+
+The data under [data/](data/) and the thesis PDFs under [docs/](docs/) are research material,
+not code: cite the dissertation if you use them.
 
 [notebooks/ldamallet_compat.py](notebooks/ldamallet_compat.py) derives from gensim 3.8.3
 (© Radim Řehůřek) and retains the **GNU LGPL v2.1** license.

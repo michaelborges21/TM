@@ -544,6 +544,10 @@ TM/
 ## Licença e créditos
 
 O trabalho académico é de **Michael Dionísio Borges** (Universidade Autónoma de Lisboa, 2020).
+O código deste repositório é distribuído sob a **Licença MIT** — ver [LICENSE](../LICENSE).
+
+Os dados em [data/](../data/) e os PDFs da dissertação em [docs/](.) são material de
+investigação, não código: cite a dissertação se os utilizar.
 
 [notebooks/ldamallet_compat.py](../notebooks/ldamallet_compat.py) deriva do gensim 3.8.3
 (© Radim Řehůřek) e mantém a licença **GNU LGPL v2.1**.
