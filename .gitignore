@@ -1,0 +1,18 @@
+# Python-generated files
+__pycache__/
+*.py[oc]
+build/
+dist/
+wheels/
+*.egg-info
+
+# Virtual environments
+.venv
+
+# Local working notes, not part of the project
+docs/tutorial_uv.md
+docs/Analise_Projeto_TM.md
+
+# Third-party software: download MALLET 2.0.8 separately (see README, "How to run it").
+# Only the vendored wrapper in notebooks/ldamallet_compat.py is versioned here.
+tools/mallet-2.0.8/
